@@ -1,0 +1,3 @@
+feature,missing_values_filled,method
+score_trend_per_quiz,7,sampled from observed values with small noise; clipped to valid range
+submission_irregularity_hours,2,sampled from observed values with small noise; clipped to valid range

@@ -1,0 +1,21 @@
+Feature Name,Meaning
+source_dataset,The name of the specific original file or system from which the row was extracted (annual_deliberation_y1; anonymized_attendance_tp_emd; final_students_scores; or ensia_performance_prediction).
+local_student_id,Anonymous identifier specific to each source registry used to reference students safely.
+year_level,Academic level or year group assignment (e.g. Y1; Y2; or Unknown).
+academic_avg_20,Overall academic year performance evaluation score mapped on a standard /20 scale.
+semester1_avg_20,Calculated academic average specific to the first semester term (out of 20).
+semester2_avg_20,Calculated academic average specific to the second semester term (out of 20).
+course_grade_mean_20,The mathematical mean of individual courses/modules mapped to a standard /20 scale.
+course_grade_std_20,Standard deviation of individual course marks; tracks performance volatility across subjects.
+course_grade_min_20,Minimum module grade recorded for the student within that term window.
+course_grade_max_20,Maximum module grade recorded for the student within that term window.
+course_count,Total count of active modules or course grades mapped for the student record row.
+failed_course_count_est,Estimated number of modules that fell strictly below the passing threshold of 10/20. (Only exists in Core dataset).
+failed_course_rate,The ratio of courses with scores below 10/20 relative to the total active course count.
+strong_course_rate,Proportion of modules where the student achieved high proficiency benchmarks (>= 14/20).
+low_performance_rate,Proportion of critical underperformance fields falling short of baseline metrics (< 8/20).
+performance_consistency_index,A specialized scale where 1 indicates absolute uniform marks and decreasing values point to higher inter-course grade discrepancies.
+academic_risk_score,Calculated probability indicator measuring historical metrics (weak mean averages; high failure shares; and extreme performance volatility).
+missing_raw_values_count,Total tally of attribute metrics missing from original source file processing.
+missing_core_features_before_imputation,Granular counter of targeted core analysis metrics missing prior to running replacement routines. (Only exists in Core dataset).
+was_imputed,Boolean toggle flag flagging whether core feature records required synthetic backfilling to run modeling. (Only exists in Core dataset).

@@ -1,0 +1,25 @@
+feature,observed_values,missing_values_filled,missing_percent,method
+attendance_engagement_score,73,819,91.82,source-aware random imputation from observed distributions; clipped to realistic ranges
+assignment_punctuality_score,76,816,91.48,source-aware random imputation from observed distributions; clipped to realistic ranges
+extra_academic_work_binary,76,816,91.48,source-aware random imputation from observed distributions; clipped to realistic ranges
+study_planning_score,76,816,91.48,source-aware random imputation from observed distributions; clipped to realistic ranges
+caffeine_intake_daily,223,669,75.0,source-aware random imputation from observed distributions; clipped to realistic ranges
+burnout_score,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+gaming_hours_daily,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+mental_health_score,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+online_classes_hours_daily,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+productivity_score,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+screen_time_hours_daily,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+self_study_hours_daily,224,668,74.89,source-aware random imputation from observed distributions; clipped to realistic ranges
+internet_quality_score,299,593,66.48,source-aware random imputation from observed distributions; clipped to realistic ranges
+focus_score,300,592,66.37,source-aware random imputation from observed distributions; clipped to realistic ranges
+part_time_job_binary,300,592,66.37,source-aware random imputation from observed distributions; clipped to realistic ranges
+social_media_hours_daily,416,476,53.36,source-aware random imputation from observed distributions; clipped to realistic ranges
+age,417,475,53.25,source-aware random imputation from observed distributions; clipped to realistic ranges
+motivation_score,475,417,46.75,source-aware random imputation from observed distributions; clipped to realistic ranges
+satisfaction_score,475,417,46.75,source-aware random imputation from observed distributions; clipped to realistic ranges
+academic_level_num,596,296,33.18,source-aware random imputation from observed distributions; clipped to realistic ranges
+gender_female_binary,614,278,31.17,source-aware random imputation from observed distributions; clipped to realistic ranges
+stress_score,711,181,20.29,source-aware random imputation from observed distributions; clipped to realistic ranges
+exercise_minutes_daily,799,93,10.43,source-aware random imputation from observed distributions; clipped to realistic ranges
+sleep_hours,891,1,0.11,source-aware random imputation from observed distributions; clipped to realistic ranges

@@ -1,0 +1,23 @@
+quiz_id,quiz_file,rows,question_columns_detected,max_observed_raw_score,inferred_max_score,scale_inference_method
+Q001,AI224 — Quiz 01 (Responses).xlsx,270,10,10.0,10.0,inferred_from_question_count
+Q002,AI224 — Quiz 02 (W25)  (Responses).xlsx,278,10,10.0,10.0,inferred_from_question_count
+Q003,AI224 — Quiz 03 (W25) (Responses).xlsx,266,10,10.0,10.0,inferred_from_question_count
+Q004,AI224 — Quiz 04 (W25) (Responses).xlsx,269,10,10.0,10.0,inferred_from_question_count
+Q005,AI224 — Quiz 05 (W25) (Responses).xlsx,265,10,10.0,10.0,inferred_from_question_count
+Q006,AI224 — Quiz 06 (W25) (Responses).xlsx,261,9,10.0,10.0,inferred_common_scale_from_max_observed
+Q007,AI224 — Quiz 08 (W25) (Responses).xlsx,245,7,10.0,10.0,inferred_common_scale_from_max_observed
+Q008,AI224 — Quiz 09 (W25) (Responses).xlsx,246,10,10.0,10.0,inferred_from_question_count
+Q009,AI224 — Quiz 11 (W25) (Responses).xlsx,225,10,10.0,10.0,inferred_from_question_count
+Q010,AI224 — Quiz 12 (W25) (Responses).xlsx,227,10,10.0,10.0,inferred_from_question_count
+Q011,AI224— Quiz 10 (W25) (Responses).xlsx,248,10,10.0,10.0,inferred_from_question_count
+Q012,ITE Quiz 01 (F24) (Responses).xlsx,292,10,10.0,10.0,inferred_from_question_count
+Q013,ITE Quiz 02 (Responses).xlsx,296,10,10.0,10.0,inferred_from_question_count
+Q014,ITE Quiz 03 (F24) (Responses).xlsx,294,10,10.0,10.0,inferred_from_question_count
+Q015,ITE Quiz 07 (F24) (Responses).xlsx,286,10,10.0,10.0,inferred_from_question_count
+Q016,ITE Quiz 09 (F24) (Responses).xlsx,256,10,10.0,10.0,inferred_from_question_count
+Q017,ITE Quiz 10 (F24) (Responses).xlsx,266,10,10.0,10.0,inferred_from_question_count
+Q018,ITE — Quiz 08 (Responses).xlsx,288,9,9.0,9.0,inferred_from_question_count
+Q019,ITE — Quiz 09 (Prime) (Responses).xlsx,277,10,10.0,10.0,inferred_from_question_count
+Q020,ITE_Quiz_04 (Responses).xlsx,285,10,10.0,10.0,inferred_from_question_count
+Q021,ITE_Quiz_05 (Responses).xlsx,290,10,10.0,10.0,inferred_from_question_count
+Q022,ITE_Quiz_06 (Responses).xlsx,289,10,10.0,10.0,inferred_from_question_count

@@ -1,0 +1,22 @@
+exact_column_name,meaning
+engagement_student_id,Anonymous generated student identifier for Dataset 3.
+anonymous_email_hash,Deterministic SHA-256 based anonymized email hash; original emails are removed.
+quizzes_taken,Number of distinct quiz files in which the student appeared.
+total_quizzes_available,Total quiz files used to build Dataset 3.
+participation_rate,quizzes_taken divided by total_quizzes_available; range 0–1.
+missing_quiz_rate,1 - participation_rate; estimated missed quiz proportion; range 0–1.
+avg_normalized_quiz_score,Average quiz score after per-quiz scale normalization; range 0–1.
+avg_quiz_percent,Average normalized quiz score expressed as percentage 0–100.
+score_consistency_std_normalized,Standard deviation of normalized quiz scores; lower means more consistent.
+lowest_normalized_quiz_score,Lowest normalized quiz score; range 0–1.
+highest_normalized_quiz_score,Highest normalized quiz score; range 0–1.
+score_trend_per_quiz,Slope of normalized quiz score over quiz order; positive means improving.
+night_activity_ratio,Ratio of submissions made between 22:00 and 05:59; range 0–1.
+submission_irregularity_hours,Standard deviation of time gaps between submissions in hours.
+active_span_days,Number of days between first and last recorded quiz submission.
+performance_score_0_10,avg_normalized_quiz_score converted to 0–10 scale.
+consistency_score_0_10,Derived consistency score where higher means more stable quiz scores.
+participation_score_0_10,participation_rate converted to 0–10 scale.
+procrastination_score_0_10,"Derived 0–10 score based on night activity, missing quizzes, and irregular submissions."
+engagement_score_0_10,"Overall derived engagement score from participation, performance, and consistency."
+engagement_profile,Interpretable label derived from engagement/activity indicators.

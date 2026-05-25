@@ -1,0 +1,5 @@
+source_dataset,file_used,records_created,aggregation_note,records_in_final_dataset
+annual_deliberation_y1,Annual Deliberation Report_ Year 1.xlsx,309,Exact numeric official-style module marks; extracted 12 module scores + semester/year averages.,309
+anonymized_attendance_tp_emd,Anonymized dataset (1).xlsx,115,TP/EMD/assiduity converted to compact academic indicators; attendance retained only in extended sheet.,115
+final_students_scores,Copy of Final_students_data_scores.xlsx,275,Module performance categories mapped to /20 scale; 33 possible academic columns.,275
+ensia_performance_prediction,Copy of 2024-2025-Ensia Performance prediction.xlsx,200,Module performance categories mapped to /20 scale; 85 possible academic columns.,200

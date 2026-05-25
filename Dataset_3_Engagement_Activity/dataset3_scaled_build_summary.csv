@@ -1,0 +1,7 @@
+metric,value
+quiz_files_used,22
+activity_rows_before_aggregation,5631
+student_records_after_aggregation,626
+total_quizzes_available,22
+score_scaling_method,per-quiz raw_score / inferred_max_score
+missing_values_after_imputation,0

@@ -1,0 +1,11 @@
+feature,missing_values_filled,method
+academic_avg_20,222,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+semester1_avg_20,337,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+semester2_avg_20,343,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+course_grade_mean_20,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+course_grade_std_20,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+course_grade_min_20,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+course_grade_max_20,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+failed_course_rate,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+strong_course_rate,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"
+low_performance_rate,243,"group median by source/year, fallback source/global median + small random noise, clipped to valid range"

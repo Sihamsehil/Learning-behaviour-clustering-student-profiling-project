@@ -1,0 +1,13 @@
+metric,value
+source_files_used,5.0
+final_rows,892.0
+core_columns_including_id_source,36.0
+numeric_clustering_columns_including_id,35.0
+mean_observed_features_before_imputation,10.4
+
+source_dataset,rows_used,original_columns,non_missing_behavior_values_extracted
+Assessment (Responses) - Form Responses 1 (1).csv,87,115,1060
+Copy of 2024-2025-Ensia Performance prediction.xlsx,200,115,1552
+Copy of Final_students_data_scores.xlsx,275,61,2200
+Learning_Behavior_Clustering_and_StudentProfiling_Responses_Form.csv,224,25,3883
+Students Performance Analysis.csv,119,17,586
