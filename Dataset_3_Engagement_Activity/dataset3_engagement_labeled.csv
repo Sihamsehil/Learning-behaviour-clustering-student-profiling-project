@@ -1,0 +1,627 @@
+quizzes_taken,participation_rate,avg_normalized_quiz_score,score_consistency_std_normalized,lowest_normalized_quiz_score,highest_normalized_quiz_score,score_trend_per_quiz,night_activity_ratio,submission_irregularity_hours,active_span_days,performance_score_0_10,consistency_score_0_10,participation_score_0_10,procrastination_score_0_10,engagement_score_0_10,engagement_profile,engagement_label,night_submitter,cluster,cluster_label,cluster_label_export,engagement_label_export
+3,0.1364,0.8333,0.17,0.6,1.0,-0.05,0.0,13.41,14.99,8.33,8.3,1.36,2.83,4.49,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+11,0.5,0.7182,0.1336,0.5,1.0,0.0011,0.1818181818181818,2824.05,547.06,7.18,8.66,5.0,5.23,6.28,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+6,0.2727,0.8833,0.0687,0.8,1.0,-0.0314,0.0,246.74,85.14,8.83,9.31,2.73,5.18,5.57,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.8917,0.0862,0.7,1.0,-0.0019,0.0833333333333333,2730.32,532.95,8.92,9.14,5.45,4.7,7.06,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.7286,0.1532,0.5,1.0,-0.0015,0.0,2542.04,532.95,7.29,8.47,6.36,4.09,7.02,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+5,0.2273,0.8,0.1265,0.6,0.9,-0.04,0.0,248.04,76.98,8.0,8.74,2.27,5.32,5.0,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.9231,0.0799,0.8,1.0,-0.0053,0.1538461538461538,2621.97,546.9,9.23,9.2,5.91,4.84,7.4,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8867,0.1024,0.7,1.0,-0.0028,0.1333333333333333,2454.84,547.0,8.87,8.98,6.82,4.49,7.76,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9308,0.091,0.7,1.0,-0.0096,0.1538461538461538,2619.1,546.99,9.31,9.09,5.91,4.84,7.39,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.92,0.1046,0.6,1.0,-0.0088,0.1333333333333333,2454.96,547.03,9.2,8.95,6.82,4.49,7.84,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7667,0.1886,0.5,1.0,-0.0343,0.0,247.16,85.0,7.67,8.11,2.73,5.18,5.04,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+7,0.3182,0.8571,0.0728,0.8,1.0,-0.0113,0.1428571428571428,245.97,77.08,8.57,9.27,3.18,5.62,5.75,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1491,0.6,1.0,-0.0343,0.0,252.16,85.79,8.33,8.51,2.73,5.18,5.29,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.95,0.0645,0.8,1.0,-0.0017,0.1666666666666666,2723.49,547.01,9.5,9.35,5.45,5.03,7.25,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.82,0.0748,0.7,0.9,-0.0035,0.0,304.42,85.85,8.2,9.25,2.27,5.32,5.15,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7714,0.1666,0.4,1.0,-0.0042,0.0714285714285714,2536.53,547.06,7.71,8.33,6.36,4.38,7.1,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9154,0.0863,0.8,1.0,-0.0056,0.3846153846153846,2629.29,533.09,9.15,9.14,5.91,5.77,7.37,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9429,0.0821,0.7,1.0,-0.0051,0.2142857142857142,2536.23,540.03,9.43,9.18,6.36,4.95,7.69,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.6,0.0632,0.5,0.7,-0.0203,0.0,330.61,84.77,6.0,9.37,2.27,5.32,4.62,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7933,0.1289,0.5,1.0,-0.0043,0.3333333333333333,2454.9,547.04,7.93,8.71,6.82,5.29,7.48,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.15,0.6,1.0,-0.0486,0.0,247.5,85.0,8.5,8.5,2.73,5.18,5.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.2211,0.4,1.0,-0.0686,0.1666666666666666,239.01,84.91,7.67,7.79,2.73,5.85,4.97,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7,0.2449,0.4,1.0,0.15,0.0,332.26,42.28,7.0,7.55,1.36,5.59,4.01,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8933,0.1569,0.5,1.0,-0.0069,0.1333333333333333,2457.88,547.12,8.93,8.43,6.82,4.49,7.67,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.725,0.2454,0.2,1.0,0.0147,0.0833333333333333,2716.13,547.92,7.25,7.55,5.45,4.7,6.32,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9077,0.1385,0.6,1.0,-0.0122,0.3076923076923077,2625.25,540.96,9.08,8.62,5.91,5.46,7.24,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9667,0.0596,0.8,1.0,-0.0053,0.1333333333333333,2454.92,546.79,9.67,9.4,6.82,4.49,8.05,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8154,0.1292,0.6,1.0,-0.0052,0.0,2623.48,547.06,8.15,8.71,5.91,4.23,7.03,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+14,0.6364,0.9214,0.0773,0.8,1.0,-0.0012,0.4285714285714285,2535.02,540.88,9.21,9.23,6.36,5.81,7.65,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7333,0.1795,0.5,1.0,0.0171,0.1666666666666666,240.46,85.02,7.33,8.2,2.73,5.85,4.97,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.78,0.16,0.6,1.0,-0.0595,0.2,325.74,85.86,7.8,8.4,2.27,6.12,4.88,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.216,0.5,1.0,-0.0286,0.1666666666666666,255.82,84.97,8.0,7.84,2.73,5.85,5.07,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9333,0.0789,0.8,1.0,-0.0099,0.1333333333333333,2455.79,547.01,9.33,9.21,6.82,4.49,7.93,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.94,0.0611,0.8,1.0,-0.0018,0.1333333333333333,2456.32,547.04,9.4,9.39,6.82,4.49,7.98,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.86,0.12,0.5,1.0,-0.0087,0.1333333333333333,2456.3,547.27,8.6,8.8,6.82,4.49,7.66,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9133,0.1204,0.6,1.0,-0.0129,0.1333333333333333,2458.91,547.5,9.13,8.8,6.82,4.49,7.79,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9,0.124,0.7,1.0,-0.0144,0.3846153846153846,2631.78,540.86,9.0,8.76,5.91,5.77,7.25,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.78,0.16,0.5,1.0,0.1,0.0,271.03,63.94,7.8,8.4,2.27,5.32,4.88,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1951,0.5,1.0,-0.0314,0.0,247.69,85.0,7.83,8.05,2.73,5.18,5.07,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1095,0.6,0.9,0.0174,0.0,306.77,85.04,8.0,8.9,2.27,5.32,5.03,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9167,0.0687,0.8,1.0,0.0029,0.1666666666666666,246.26,85.04,9.17,9.31,2.73,5.85,5.65,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8933,0.1569,0.4,1.0,-0.0036,0.0666666666666666,2454.59,547.01,8.93,8.43,6.82,4.22,7.67,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.7333,0.2211,0.4,1.0,0.01,0.0,287.3,77.34,7.33,7.79,2.27,5.32,4.64,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9333,0.0789,0.8,1.0,-0.0089,0.0666666666666666,2454.72,546.96,9.33,9.21,6.82,4.22,7.93,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1344,0.7,1.0,-0.0429,0.0,247.06,85.01,8.83,8.66,2.73,5.18,5.44,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9267,0.0854,0.8,1.0,-0.0032,0.2,2459.26,546.98,9.27,9.15,6.82,4.75,7.9,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.95,0.05,0.9,1.0,-0.02,0.0,310.02,50.08,9.5,9.5,1.82,5.45,5.28,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.7,0.1789,0.5,1.0,-0.0676,0.0,330.05,85.0,7.0,8.21,2.27,5.32,4.64,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.775,0.2278,0.4,1.0,-0.1214,0.0,706.92,85.05,7.75,7.72,1.82,5.45,4.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8333,0.1193,0.6,1.0,-0.0011,0.1333333333333333,2448.84,547.01,8.33,8.81,6.82,4.49,7.59,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9154,0.0863,0.8,1.0,-0.0013,0.0,2622.34,547.05,9.15,9.14,5.91,4.23,7.37,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+15,0.6818,0.76,0.1254,0.5,1.0,-0.0082,0.0666666666666666,2458.31,547.01,7.6,8.75,6.82,4.22,7.4,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.94,0.08,0.7,1.0,-0.0065,0.1333333333333333,2454.24,547.01,9.4,9.2,6.82,4.49,7.94,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7833,0.1462,0.6,1.0,0.0257,0.0,246.14,84.87,7.83,8.54,2.73,5.18,5.17,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9333,0.1011,0.6,1.0,-0.0052,0.0666666666666666,2454.41,546.83,9.33,8.99,6.82,4.22,7.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+7,0.3182,0.7143,0.2474,0.3,1.0,-0.0147,0.1428571428571428,296.06,90.98,7.14,7.53,3.18,5.62,5.04,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9071,0.11,0.6,1.0,-0.0101,0.1428571428571428,2538.94,540.07,9.07,8.9,6.36,4.66,7.55,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+7,0.3182,0.9,0.0926,0.8,1.0,-0.0055,0.0,3775.62,547.08,9.0,9.07,3.18,5.05,5.81,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.8091,0.1083,0.6,0.9,-0.0014,0.1818181818181818,2842.76,532.99,8.09,8.92,5.0,5.23,6.56,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+4,0.1818,0.8,0.1,0.7,0.9,-0.0,0.0,212.35,48.97,8.0,9.0,1.82,5.45,4.8,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0257,0.0,246.54,84.95,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9143,0.099,0.7,1.0,-0.0068,0.0714285714285714,2541.85,532.99,9.14,9.01,6.36,4.38,7.59,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.7,0.1581,0.5,0.9,-0.0571,0.25,703.15,85.86,7.0,8.42,1.82,6.45,4.43,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.8833,0.1067,0.7,1.0,-0.0094,0.0833333333333333,2719.05,539.76,8.83,8.93,5.45,4.7,6.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.84,0.12,0.6,1.0,-0.0092,0.3333333333333333,2449.79,547.75,8.4,8.8,6.82,5.29,7.61,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7923,0.1071,0.6,1.0,-0.0036,0.1538461538461538,2674.99,546.97,7.92,8.93,5.91,4.84,7.02,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.95,0.1118,0.7,1.0,-0.0429,0.0,247.4,85.02,9.5,8.88,2.73,5.18,5.65,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.2141,0.4,1.0,0.0714,0.1666666666666666,241.11,85.75,7.5,7.86,2.73,5.85,4.95,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.78,0.1327,0.6,1.0,-0.0595,0.2,329.47,84.71,7.8,8.67,2.27,6.12,4.93,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.0929,0.8,1.0,-0.0019,0.1333333333333333,2455.59,546.99,9.07,9.07,6.82,4.49,7.83,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1462,0.5,0.9,-0.0054,0.0,3776.89,463.03,8.17,8.54,2.73,5.18,5.25,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.8111,0.11,0.7,1.0,-0.0063,0.2222222222222222,3400.97,547.04,8.11,8.9,4.09,5.66,6.06,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+2,0.0909,0.3,0.0,0.3,0.3,-0.0051,0.0,0.0,21.01,3.0,10.0,0.91,2.73,3.25,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.9154,0.1026,0.7,1.0,-0.0129,0.1538461538461538,2624.13,547.0,9.15,8.97,5.91,4.84,7.33,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.825,0.0433,0.8,0.9,0.01,0.0,207.78,48.79,8.25,9.57,1.82,5.45,4.98,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9167,0.1067,0.7,1.0,-0.0429,0.0,247.88,85.1,9.17,8.93,2.73,5.18,5.58,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.8583,0.1187,0.6,1.0,-0.008,0.0,2728.82,540.03,8.58,8.81,5.45,4.36,6.91,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+13,0.5909,0.9,0.171,0.4,1.0,-0.0073,0.0769230769230769,2622.81,539.97,9.0,8.29,5.91,4.53,7.16,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.9273,0.0862,0.8,1.0,-0.0098,0.1818181818181818,2848.65,525.98,9.27,9.14,5.0,5.23,6.9,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8357,0.1674,0.4,1.0,-0.0145,0.3571428571428571,2541.62,547.84,8.36,8.33,6.36,5.52,7.25,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.8,0.0707,0.7,0.9,0.06,0.0,207.36,48.65,8.0,9.29,1.82,5.45,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.1893,0.5,1.0,-0.0086,0.0,244.83,84.85,7.5,8.11,2.73,5.18,5.0,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7467,0.1668,0.3,1.0,-0.0,0.0666666666666666,2455.85,547.1,7.47,8.33,6.82,4.22,7.28,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9167,0.0687,0.8,1.0,-0.0029,0.0,246.9,85.01,9.17,9.31,2.73,5.18,5.65,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.12,0.7,1.0,-0.0244,0.0,404.98,85.11,8.6,8.8,2.27,5.32,5.16,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8867,0.1087,0.7,1.0,-0.0096,0.0,2457.93,547.27,8.87,8.91,6.82,3.95,7.75,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+3,0.1364,0.6333,0.0471,0.6,0.7,0.0286,0.0,251.62,35.03,6.33,9.53,1.36,5.59,4.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.85,0.05,0.8,0.9,0.0,0.0,208.78,49.01,8.5,9.5,1.82,5.45,5.03,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.1155,0.7,1.0,0.0057,0.0,247.46,85.07,8.0,8.85,2.73,5.18,5.27,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.102,0.7,1.0,0.0027,0.0,332.14,84.99,8.6,8.98,2.27,5.32,5.2,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.0957,0.7,1.0,-0.0086,0.0,246.34,84.87,8.5,9.04,2.73,5.18,5.43,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.1236,0.6,1.0,-0.005,0.1333333333333333,2453.44,547.0,9.07,8.76,6.82,4.49,7.77,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+3,0.1364,0.7667,0.0943,0.7,0.9,-0.1,0.0,10.64,14.99,7.67,9.06,1.36,2.78,4.48,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+6,0.2727,0.8333,0.0943,0.7,1.0,0.0,0.0,245.6,85.03,8.33,9.06,2.73,5.18,5.39,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.0764,0.8,1.0,0.0029,0.0,247.23,84.93,8.5,9.24,2.73,5.18,5.47,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.96,0.08,0.8,1.0,-0.02,0.0,268.92,64.43,9.6,9.2,2.27,5.32,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1247,0.5,0.9,0.0,0.0,246.8,85.07,7.67,8.75,2.73,5.18,5.17,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7,0.0816,0.6,0.8,0.0643,0.0,247.86,34.67,7.0,9.18,1.36,5.59,4.34,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1549,0.5,0.9,-0.0811,0.0,329.8,85.1,8.0,8.45,2.27,5.32,4.94,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.64,0.1497,0.5,0.9,-0.077,0.0,329.75,85.05,6.4,8.5,2.27,5.32,4.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.9,0.0707,0.8,1.0,0.04,0.0,209.25,48.91,9.0,9.29,1.82,5.45,5.11,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1572,0.6,1.0,-0.0257,0.0,247.28,85.0,7.83,8.43,2.73,5.18,5.14,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.1024,0.6,1.0,-0.0056,0.1333333333333333,2457.19,547.0,8.53,8.98,6.82,4.49,7.68,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+1,0.0455,1.0,0.0,1.0,1.0,0.0024,0.0,2537.75,0.0,10.0,10.0,0.45,4.15,4.75,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.8111,0.137,0.6,1.0,-0.0056,0.2222222222222222,3098.89,533.11,8.11,8.63,4.09,5.66,6.0,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9333,0.1106,0.7,1.0,-0.0343,0.0,247.68,85.05,9.33,8.89,2.73,5.18,5.61,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.875,0.1233,0.6,1.0,-0.0024,0.1666666666666666,2931.65,547.02,8.75,8.77,5.45,5.03,6.94,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9286,0.0958,0.7,1.0,-0.01,0.1428571428571428,2532.31,547.02,9.29,9.04,6.36,4.66,7.63,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8733,0.1062,0.7,1.0,-0.0044,0.2,2456.51,547.05,8.73,8.94,6.82,4.75,7.72,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.7,0.0707,0.6,0.8,0.04,0.0,209.9,49.0,7.0,9.29,1.82,5.45,4.61,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.95,0.0764,0.8,1.0,-0.0029,0.1666666666666666,242.9,85.01,9.5,9.24,2.73,5.85,5.72,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7533,0.1087,0.6,0.9,-0.0087,0.0,2454.93,546.82,7.53,8.91,6.82,3.95,7.42,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1067,0.7,1.0,0.0143,0.0,246.9,84.77,8.17,8.93,2.73,5.18,5.33,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.63,0.1345,0.4,0.8,-0.0002,0.2,2963.35,526.05,6.3,8.65,4.55,5.44,5.81,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+6,0.2727,0.9,0.1826,0.5,1.0,-0.0571,0.0,247.26,85.05,9.0,8.17,2.73,5.18,5.38,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+2,0.0909,0.7,0.1,0.6,0.8,-0.0108,0.0,0.0,14.04,7.0,9.0,0.91,2.73,4.05,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+6,0.2727,0.7333,0.1599,0.4,0.9,-0.0171,0.0,246.78,85.05,7.33,8.4,2.73,5.18,5.01,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7167,0.2115,0.3,1.0,0.0429,0.0,246.77,84.98,7.17,7.89,2.73,5.18,4.87,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.6714,0.1943,0.4,1.0,0.0055,0.0714285714285714,2533.53,547.04,6.71,8.06,6.36,4.38,6.79,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7923,0.1774,0.4,1.0,-0.0015,0.0769230769230769,2625.03,546.99,7.92,8.23,5.91,4.53,6.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.7636,0.1367,0.6,1.0,-0.0047,0.1818181818181818,3052.98,539.76,7.64,8.63,5.0,5.23,6.39,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.92,0.0909,0.7,1.0,-0.0036,0.1333333333333333,2455.49,547.02,9.2,9.09,6.82,4.49,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.68,0.2315,0.3,1.0,0.01,0.0,270.57,64.02,6.8,7.68,2.27,5.32,4.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9467,0.0618,0.8,1.0,-0.0016,0.0666666666666666,2454.88,547.02,9.47,9.38,6.82,4.22,7.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.88,0.1327,0.6,1.0,-0.0136,0.1333333333333333,2455.71,547.02,8.8,8.67,6.82,4.49,7.68,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1344,0.6,1.0,0.02,0.1666666666666666,251.38,85.24,8.83,8.66,2.73,5.85,5.44,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.82,0.1869,0.4,1.0,-0.021,0.1333333333333333,2455.56,547.01,8.2,8.13,6.82,4.49,7.43,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.1258,0.7,1.0,-0.0314,0.0,248.01,84.8,8.5,8.74,2.73,5.18,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.1454,0.6,1.0,-0.0145,0.1333333333333333,2460.62,546.8,8.53,8.55,6.82,4.49,7.59,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.15,0.6,1.0,-0.0314,0.1666666666666666,243.02,85.24,8.5,8.5,2.73,5.85,5.32,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.9556,0.0831,0.8,1.0,0.0125,0.1111111111111111,166.32,90.96,9.56,9.17,4.09,5.19,6.47,Disengaged,0,Night submitter,0,Engaged,Engaged,0
+12,0.5455,0.9083,0.1037,0.7,1.0,-0.0075,0.0,2778.53,540.02,9.08,8.96,5.45,4.36,7.06,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+4,0.1818,0.675,0.1479,0.5,0.9,-0.07,0.0,311.73,50.09,6.75,8.52,1.82,5.45,4.39,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.0943,0.7,1.0,0.0114,0.0,245.14,84.34,8.67,9.06,2.73,5.18,5.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1095,0.7,1.0,0.04,0.0,270.71,63.92,8.0,8.9,2.27,5.32,5.03,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.2285,0.3,1.0,0.0286,0.0,247.44,84.88,7.67,7.71,2.73,5.18,4.96,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8167,0.0687,0.7,0.9,-0.0029,0.3333333333333333,244.0,84.96,8.17,9.31,2.73,6.52,5.4,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1673,0.5,1.0,-0.0473,0.0,330.46,85.01,8.0,8.33,2.27,5.32,4.92,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9357,0.1109,0.6,1.0,-0.004,0.1428571428571428,2534.4,547.01,9.36,8.89,6.36,4.66,7.62,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.94,0.0712,0.8,1.0,-0.0069,0.1333333333333333,2454.76,546.99,9.4,9.29,6.82,4.49,7.96,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+3,0.1364,0.1333,0.1247,0.0,0.3,-0.1,0.6666666666666666,261.08,49.75,1.33,8.75,1.36,8.26,2.83,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8,0.1461,0.5,1.0,-0.0007,0.0666666666666666,2457.6,546.45,8.0,8.54,6.82,4.22,7.46,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8538,0.1151,0.7,1.0,-0.0076,0.0,2625.15,547.01,8.54,8.85,5.91,4.23,7.15,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+5,0.2273,0.94,0.08,0.8,1.0,0.0012,0.0,404.7,85.06,9.4,9.2,2.27,5.32,5.44,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8067,0.1236,0.6,1.0,-0.0101,0.0666666666666666,2454.06,546.9,8.07,8.76,6.82,4.22,7.52,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.6462,0.1692,0.4,1.0,-0.005,0.0769230769230769,2672.15,547.07,6.46,8.31,5.91,4.53,6.53,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.86,0.102,0.7,1.0,0.02,0.0,267.93,63.97,8.6,8.98,2.27,5.32,5.2,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1374,0.7,1.0,-0.0114,0.1666666666666666,239.16,84.98,8.33,8.63,2.73,5.85,5.31,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1863,0.5,1.0,0.0143,0.0,248.01,84.9,8.83,8.14,2.73,5.18,5.34,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7714,0.1485,0.5,1.0,0.0081,0.0,2541.88,532.88,7.71,8.52,6.36,4.09,7.13,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.9167,0.0687,0.8,1.0,0.02,0.0,245.33,85.09,9.17,9.31,2.73,5.18,5.65,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.81,0.1814,0.5,1.0,-0.0229,0.0,2102.75,428.16,8.1,8.19,4.55,4.64,6.16,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.1414,0.6,1.0,0.0,0.0,246.7,85.39,8.0,8.59,2.73,5.18,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9071,0.1033,0.7,1.0,-0.0108,0.1428571428571428,2537.14,547.04,9.07,8.97,6.36,4.66,7.56,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.6333,0.17,0.4,0.8,-0.0571,0.1666666666666666,246.14,84.26,6.33,8.3,2.73,5.85,4.74,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1095,0.6,0.9,0.0233,0.0,405.44,85.08,8.0,8.9,2.27,5.32,5.03,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.131,0.5,1.0,-0.0066,0.0666666666666666,2454.17,547.04,8.53,8.69,6.82,4.22,7.62,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.775,0.0433,0.7,0.8,0.03,0.25,201.2,48.24,7.75,9.57,1.82,6.45,4.85,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8167,0.1344,0.6,1.0,0.0486,0.0,247.34,84.96,8.17,8.66,2.73,5.18,5.27,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.94,0.0712,0.8,1.0,-0.0041,0.1333333333333333,2455.31,546.98,9.4,9.29,6.82,4.49,7.96,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.7786,0.197,0.4,1.0,-0.0056,0.0714285714285714,2546.98,532.99,7.79,8.03,6.36,4.38,7.05,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8333,0.1599,0.5,1.0,-0.04,0.1666666666666666,242.12,85.93,8.33,8.4,2.73,5.85,5.26,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7929,0.1486,0.5,1.0,-0.007,0.0,2725.75,546.96,7.93,8.51,6.36,4.09,7.18,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+13,0.5909,0.8,0.1881,0.4,1.0,-0.0132,0.2307692307692307,2632.87,540.0,8.0,8.12,5.91,5.15,6.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9333,0.1135,0.6,1.0,-0.0059,0.0666666666666666,2454.23,547.05,9.33,8.86,6.82,4.22,7.86,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9214,0.0773,0.8,1.0,-0.0041,0.2142857142857142,2726.55,547.01,9.21,9.23,6.36,4.95,7.65,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9167,0.0687,0.8,1.0,-0.0029,0.0,246.99,85.0,9.17,9.31,2.73,5.18,5.65,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.0898,0.8,1.0,-0.0143,0.0,248.33,85.0,8.83,9.1,2.73,5.18,5.53,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8429,0.1116,0.6,1.0,-0.0046,0.2142857142857142,2540.09,547.0,8.43,8.88,6.36,4.95,7.38,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9154,0.1099,0.6,1.0,-0.009,0.1538461538461538,2613.8,561.22,9.15,8.9,5.91,4.84,7.32,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9067,0.0929,0.7,1.0,-0.0018,0.0666666666666666,2453.46,547.1,9.07,9.07,6.82,4.22,7.83,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.6333,0.1738,0.3,0.9,-0.0002,0.1333333333333333,2455.24,546.8,6.33,8.26,6.82,4.49,6.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8643,0.0895,0.7,1.0,-0.007,0.2857142857142857,2538.34,547.92,8.64,9.11,6.36,5.23,7.48,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9286,0.0881,0.8,1.0,-0.0084,0.0714285714285714,2528.64,546.88,9.29,9.12,6.36,4.38,7.65,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9,0.0926,0.7,1.0,-0.006,0.0714285714285714,2535.38,547.03,9.0,9.07,6.36,4.38,7.56,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7769,0.131,0.6,1.0,-0.0043,0.1538461538461538,2630.8,532.96,7.77,8.69,5.91,4.84,6.93,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8333,0.1247,0.7,1.0,-0.0229,0.1666666666666666,244.94,85.84,8.33,8.75,2.73,5.85,5.33,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1599,0.5,0.9,-0.0286,0.0,248.27,85.09,7.67,8.4,2.73,5.18,5.1,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7133,0.2125,0.3,1.0,0.014,0.2,2460.17,547.54,7.13,7.88,6.82,4.75,7.11,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8733,0.1436,0.6,1.0,-0.0111,0.1333333333333333,2454.23,547.02,8.73,8.56,6.82,4.49,7.65,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.7,0.2,0.4,1.0,-0.0349,0.0,308.23,84.91,7.0,8.0,2.27,5.32,4.6,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.82,0.1424,0.5,1.0,-0.0013,0.0,2448.96,547.5,8.2,8.58,6.82,3.95,7.52,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+3,0.1364,0.8,0.0816,0.7,0.9,0.1,0.0,251.23,48.97,8.0,9.18,1.36,5.59,4.59,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.1528,0.6,1.0,0.0743,0.0,247.92,85.04,8.0,8.47,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8167,0.0898,0.7,1.0,0.0143,0.0,247.06,84.55,8.17,9.1,2.73,5.18,5.36,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.92,0.098,0.7,1.0,-0.0072,0.1333333333333333,2450.56,546.99,9.2,9.02,6.82,4.49,7.85,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1572,0.6,1.0,-0.0429,0.0,245.89,84.94,8.17,8.43,2.73,5.18,5.23,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.1414,0.6,1.0,0.0,0.0,248.24,85.0,8.0,8.59,2.73,5.18,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.74,0.1405,0.5,0.9,0.0001,0.3333333333333333,2460.5,547.06,7.4,8.6,6.82,5.29,7.32,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.725,0.1639,0.5,1.0,-0.0044,0.0833333333333333,2728.25,533.01,7.25,8.36,5.45,4.7,6.48,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8385,0.1595,0.4,1.0,-0.0128,0.1538461538461538,2626.83,547.09,8.38,8.4,5.91,4.84,7.03,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.925,0.0829,0.8,1.0,-0.01,0.0,310.43,50.09,9.25,9.17,1.82,5.45,5.15,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+1,0.0455,1.0,0.0,1.0,1.0,0.0214,0.0,223.72,0.0,10.0,10.0,0.45,4.15,4.75,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.76,0.049,0.7,0.8,-0.0108,0.0,328.24,84.67,7.6,9.51,2.27,5.32,5.05,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.8727,0.1135,0.7,1.0,-0.0087,0.0909090909090909,2827.27,540.08,8.73,8.86,5.0,4.86,6.7,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.9,0.1279,0.6,1.0,0.0003,0.2727272727272727,2836.32,539.96,9.0,8.72,5.0,5.59,6.74,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.84,0.0879,0.6,1.0,-0.0013,0.2,2455.11,547.0,8.4,9.12,6.82,4.75,7.67,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.65,0.15,0.4,0.8,-0.1,0.0,212.26,70.5,6.5,8.5,1.82,5.45,4.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7333,0.1886,0.5,1.0,0.0171,0.0,237.6,85.11,7.33,8.11,2.73,5.18,4.96,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.6833,0.1772,0.5,1.0,0.02,0.1666666666666666,247.03,85.53,6.83,8.23,2.73,5.85,4.85,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.15,0.6,1.0,-0.0086,0.1666666666666666,249.8,84.99,8.5,8.5,2.73,5.85,5.32,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.88,0.1166,0.7,1.0,-0.0351,0.0,199.77,84.99,8.8,8.83,2.27,5.32,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.83,0.11,0.7,1.0,0.0012,0.0,2103.27,427.86,8.3,8.9,4.55,4.64,6.36,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+13,0.5909,0.9077,0.1206,0.7,1.0,-0.0126,0.0,2621.24,547.0,9.08,8.79,5.91,4.23,7.28,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.15,0.6,1.0,-0.0086,0.0,246.83,84.99,8.5,8.5,2.73,5.18,5.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9333,0.1106,0.7,1.0,-0.0057,0.1666666666666666,243.69,85.92,9.33,8.89,2.73,5.85,5.61,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1607,0.6,1.0,-0.0371,0.0,247.15,85.02,8.5,8.39,2.73,5.18,5.3,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.68,0.2135,0.3,0.9,0.0284,0.2,329.43,85.01,6.8,7.86,2.27,6.12,4.52,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1258,0.7,1.0,-0.0314,0.0,249.19,85.06,8.5,8.74,2.73,5.18,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9133,0.1087,0.7,1.0,-0.0114,0.2,2455.04,546.99,9.13,8.91,6.82,4.75,7.82,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.1384,0.6,1.0,0.0429,0.0,251.79,85.01,8.5,8.62,2.73,5.18,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.9,0.1301,0.6,1.0,-0.0014,0.1538461538461538,2622.69,546.99,9.0,8.7,5.91,4.84,7.24,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.7,0.1,0.5,0.8,0.0026,0.0,2731.3,525.97,7.0,9.0,5.45,4.36,6.55,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+15,0.6818,0.9067,0.1123,0.7,1.0,-0.005,0.2666666666666666,2454.1,547.56,9.07,8.88,6.82,5.02,7.79,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.5167,0.1675,0.3,0.7,-0.0714,0.0,250.61,85.01,5.17,8.33,2.73,5.18,4.46,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+7,0.3182,0.8143,0.0833,0.7,0.9,0.0091,0.2857142857142857,244.24,77.16,8.14,9.17,3.18,6.19,5.62,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.2363,0.3,1.0,0.0143,0.0,246.91,85.0,7.5,7.64,2.73,5.18,4.9,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1491,0.6,1.0,-0.0343,0.0,246.12,85.01,8.33,8.51,2.73,5.18,5.29,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.8462,0.15,0.5,1.0,-0.0067,0.0769230769230769,2674.89,547.03,8.46,8.5,5.91,4.53,7.07,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9267,0.0929,0.7,1.0,-0.0029,0.2,2454.96,547.02,9.27,9.07,6.82,4.75,7.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9231,0.0973,0.7,1.0,-0.0043,0.1538461538461538,2622.03,547.04,9.23,9.03,5.91,4.84,7.36,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.8,0.1225,0.6,0.9,0.06,0.0,206.2,49.97,8.0,8.78,1.82,5.45,4.76,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.1123,0.7,1.0,-0.0117,0.1333333333333333,2460.27,547.09,9.07,8.88,6.82,4.49,7.79,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8643,0.1172,0.7,1.0,-0.0049,0.1428571428571428,2533.09,539.99,8.64,8.83,6.36,4.66,7.43,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.96,0.0611,0.8,1.0,-0.0045,0.0666666666666666,2455.02,547.0,9.6,9.39,6.82,4.22,8.03,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7667,0.1247,0.6,1.0,0.0057,0.0,245.85,85.16,7.67,8.75,2.73,5.18,5.17,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.75,0.1803,0.5,1.0,-0.04,0.0,207.46,69.93,7.5,8.2,1.82,5.45,4.51,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.8,0.0707,0.7,0.9,-0.02,0.0,209.71,49.09,8.0,9.29,1.82,5.45,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1572,0.6,1.0,-0.0143,0.0,247.95,84.87,7.83,8.43,2.73,5.18,5.14,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.9,0.1265,0.7,1.0,-0.01,0.0,270.47,64.1,9.0,8.74,2.27,5.32,5.25,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8467,0.1893,0.3,1.0,-0.0055,0.0,2455.83,547.06,8.47,8.11,6.82,3.95,7.49,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+5,0.2273,0.74,0.08,0.7,0.9,-0.0297,0.0,330.22,85.05,7.4,9.2,2.27,5.32,4.94,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7571,0.2129,0.3,1.0,0.0034,0.1428571428571428,2537.77,540.1,7.57,7.87,6.36,4.66,6.97,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8533,0.136,0.6,1.0,-0.0059,0.1333333333333333,2454.63,547.03,8.53,8.64,6.82,4.49,7.61,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8867,0.1454,0.5,1.0,-0.0029,0.1333333333333333,2454.46,546.94,8.87,8.55,6.82,4.49,7.68,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7333,0.1972,0.5,1.0,-0.0171,0.0,247.04,85.01,7.33,8.03,2.73,5.18,4.94,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.9,0.0707,0.8,1.0,0.0114,0.0,233.33,63.99,9.0,9.29,1.82,5.45,5.11,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.775,0.1963,0.3,1.0,-0.0104,0.0,2727.46,533.01,7.75,8.04,5.45,4.36,6.54,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+4,0.1818,0.675,0.2487,0.3,1.0,-0.1629,0.0,464.64,63.19,6.75,7.51,1.82,5.45,4.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.0854,0.8,1.0,-0.0031,0.1333333333333333,2454.35,547.87,9.07,9.15,6.82,4.49,7.85,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8133,0.1408,0.5,1.0,-0.0039,0.0,2455.25,547.03,8.13,8.59,6.82,3.95,7.5,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0371,0.0,247.17,84.98,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.2,0.4,1.0,-0.0457,0.0,248.16,85.09,8.0,8.0,2.73,5.18,5.1,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7167,0.1213,0.5,0.9,0.0257,0.0,247.16,85.05,7.17,8.79,2.73,5.18,5.05,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.15,0.5,1.0,-0.0143,0.0,245.53,85.15,7.5,8.5,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.9,0.1265,0.7,1.0,-0.0541,0.4,324.42,84.08,9.0,8.74,2.27,6.92,5.25,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9267,0.0998,0.7,1.0,-0.0129,0.1333333333333333,2455.31,546.78,9.27,9.0,6.82,4.49,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.72,0.2072,0.3,1.0,-0.0006,0.0,2452.0,547.22,7.2,7.93,6.82,3.95,7.14,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+5,0.2273,0.9,0.0894,0.8,1.0,-0.027,0.0,329.6,84.93,9.0,9.11,2.27,5.32,5.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1106,0.7,1.0,-0.0343,0.0,243.59,85.9,8.67,8.89,2.73,5.18,5.45,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1374,0.6,1.0,0.0286,0.0,247.09,84.96,8.67,8.63,2.73,5.18,5.39,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.0998,0.6,1.0,-0.0003,0.1333333333333333,2456.35,547.04,9.07,9.0,6.82,4.49,7.82,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+7,0.3182,0.8571,0.105,0.7,1.0,-0.0188,0.0,2440.13,414.07,8.57,8.95,3.18,5.05,5.68,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7,0.1732,0.5,1.0,0.0343,0.0,246.3,84.72,7.0,8.27,2.73,5.18,4.9,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.7,0.0894,0.6,0.8,-0.0,0.0,329.15,84.81,7.0,9.11,2.27,5.32,4.82,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+8,0.3636,0.7875,0.1269,0.6,1.0,-0.0047,0.25,3393.63,533.29,7.88,8.73,3.64,5.91,5.72,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9467,0.0618,0.8,1.0,-0.0032,0.0666666666666666,2453.03,547.08,9.47,9.38,6.82,4.22,7.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.7533,0.1628,0.5,1.0,-0.0105,0.1333333333333333,2459.96,547.19,7.53,8.37,6.82,4.49,7.31,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1344,0.7,1.0,-0.0143,0.0,246.07,84.98,8.83,8.66,2.73,5.18,5.44,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1247,0.7,1.0,-0.0286,0.0,246.8,84.94,8.33,8.75,2.73,5.18,5.33,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0371,0.0,250.12,85.02,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7733,0.1236,0.6,1.0,-0.0053,0.0666666666666666,2455.03,547.02,7.73,8.76,6.82,4.22,7.44,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9231,0.1049,0.7,1.0,-0.0132,0.1538461538461538,2622.82,547.0,9.23,8.95,5.91,4.84,7.35,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9667,0.0596,0.8,1.0,-0.0053,0.1333333333333333,2453.22,546.85,9.67,9.4,6.82,4.49,8.05,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+3,0.1364,0.8,0.0,0.8,0.8,0.0,0.0,85.18,20.96,8.0,10.0,1.36,4.11,4.75,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9,0.1211,0.6,1.0,-0.0082,0.0666666666666666,2458.14,547.03,9.0,8.79,6.82,4.22,7.76,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+8,0.3636,0.8625,0.1218,0.6,1.0,-0.0081,0.25,3527.63,526.08,8.62,8.78,3.64,5.91,5.91,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.98,0.04,0.9,1.0,0.0024,0.1,160.26,91.87,9.8,9.6,4.55,4.9,6.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.8,0.0707,0.7,0.9,-0.0071,0.0,708.32,85.02,8.0,9.29,1.82,5.45,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.5923,0.3173,0.1,1.0,0.0109,0.1538461538461538,2618.18,540.93,5.92,6.83,5.91,4.84,6.1,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.96,0.0712,0.8,1.0,-0.0067,0.1333333333333333,2455.57,546.97,9.6,9.29,6.82,4.49,8.01,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9267,0.0772,0.8,1.0,-0.0054,0.1333333333333333,2454.78,547.0,9.27,9.23,6.82,4.49,7.91,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.0957,0.7,1.0,-0.0029,0.0,247.04,84.99,8.5,9.04,2.73,5.18,5.43,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1106,0.7,1.0,0.0057,0.1666666666666666,242.83,85.86,8.33,8.89,2.73,5.85,5.36,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.8,0.1225,0.6,0.9,-0.0571,0.0,311.01,77.51,8.0,8.78,1.82,5.45,4.76,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.76,0.1818,0.3,1.0,-0.0064,0.1333333333333333,2454.63,547.49,7.6,8.18,6.82,4.49,7.29,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1863,0.5,1.0,0.0143,0.0,248.9,85.01,8.83,8.14,2.73,5.18,5.34,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.0816,0.8,1.0,-0.0114,0.0,245.12,85.34,9.0,9.18,2.73,5.18,5.59,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.1204,0.6,1.0,-0.0029,0.0666666666666666,2455.51,547.03,8.53,8.8,6.82,4.22,7.64,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.2339,0.4,1.0,-0.0714,0.0,246.32,85.02,8.17,7.66,2.73,5.18,5.07,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.1204,0.6,1.0,-0.003,0.3333333333333333,2450.44,547.01,8.53,8.8,6.82,5.29,7.64,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9,0.1414,0.5,1.0,-0.016,0.1333333333333333,2455.82,547.13,9.0,8.59,6.82,4.49,7.72,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.75,0.1258,0.5,0.9,0.0371,0.0,241.29,84.97,7.5,8.74,2.73,5.18,5.12,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.82,0.1108,0.6,1.0,-0.0088,0.3333333333333333,2458.19,547.92,8.2,8.89,6.82,5.29,7.58,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.0957,0.7,1.0,-0.0429,0.0,247.53,85.0,8.5,9.04,2.73,5.18,5.43,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8167,0.1675,0.6,1.0,-0.0257,0.0,250.62,85.0,8.17,8.33,2.73,5.18,5.21,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.7273,0.1763,0.4,1.0,-0.0336,0.1818181818181818,150.11,91.0,7.27,8.24,5.0,4.91,6.22,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+11,0.5,0.9455,0.0656,0.8,1.0,-0.0036,0.0909090909090909,3107.0,547.08,9.45,9.34,5.0,4.86,6.98,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7462,0.0929,0.6,0.9,-0.0005,0.1538461538461538,2631.24,540.09,7.46,9.07,5.91,4.84,6.93,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.8,0.1809,0.4,1.0,-0.0046,0.1818181818181818,2842.99,539.26,8.0,8.19,5.0,5.23,6.39,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.88,0.1376,0.5,1.0,-0.0051,0.0666666666666666,2454.68,547.0,8.8,8.62,6.82,4.22,7.67,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1572,0.6,1.0,-0.0257,0.0,246.63,85.02,8.17,8.43,2.73,5.18,5.23,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.94,0.0879,0.7,1.0,0.0031,0.1333333333333333,2454.87,547.01,9.4,9.12,6.82,4.49,7.92,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8143,0.1767,0.5,1.0,-0.01,0.1428571428571428,2724.05,547.0,8.14,8.23,6.36,4.66,7.18,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.7,0.1549,0.4,0.8,0.0405,0.0,329.88,84.89,7.0,8.45,2.27,5.32,4.69,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.72,0.2227,0.2,1.0,0.0012,0.2,3258.26,526.05,7.2,7.77,4.55,5.44,5.85,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+4,0.1818,0.825,0.1479,0.6,1.0,-0.03,0.0,309.27,50.07,8.25,8.52,1.82,5.45,4.77,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.6571,0.1294,0.5,0.9,0.0025,0.1428571428571428,2533.32,547.03,6.57,8.71,6.36,4.66,6.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.75,0.1258,0.6,0.9,-0.0071,0.1666666666666666,4058.24,484.15,7.5,8.74,2.73,5.85,5.12,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8,0.1461,0.4,1.0,0.0048,0.1333333333333333,2454.66,546.99,8.0,8.54,6.82,4.49,7.46,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.675,0.109,0.5,0.8,-0.07,0.0,207.36,48.99,6.75,8.91,1.82,5.45,4.47,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8143,0.1505,0.5,1.0,-0.0116,0.1428571428571428,2725.81,546.98,8.14,8.49,6.36,4.66,7.23,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7769,0.1625,0.5,1.0,-0.0004,0.0769230769230769,2823.84,547.08,7.77,8.38,5.91,4.53,6.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7667,0.1491,0.6,1.0,0.0114,0.0,246.62,85.04,7.67,8.51,2.73,5.18,5.12,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.95,0.0627,0.8,1.0,-0.0062,0.0714285714285714,2533.92,547.01,9.5,9.37,6.36,4.38,7.75,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9071,0.1033,0.7,1.0,-0.011,0.2142857142857142,2547.23,533.0,9.07,8.97,6.36,4.95,7.56,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.6833,0.2115,0.4,1.0,-0.0314,0.0,246.89,85.05,6.83,7.89,2.73,5.18,4.79,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.1,0.7,1.0,-0.0229,0.0,246.86,84.96,9.0,9.0,2.73,5.18,5.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1106,0.7,1.0,0.0286,0.0,246.34,85.01,8.67,8.89,2.73,5.18,5.45,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.1607,0.5,1.0,0.0143,0.1666666666666666,242.26,84.96,7.5,8.39,2.73,5.85,5.05,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.95,0.05,0.9,1.0,-0.0086,0.0,247.0,85.06,9.5,9.5,2.73,5.18,5.78,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9267,0.1123,0.6,1.0,-0.0062,0.1333333333333333,2450.93,553.89,9.27,8.88,6.82,4.49,7.84,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8667,0.1599,0.6,1.0,-0.0114,0.0,248.01,85.11,8.67,8.4,2.73,5.18,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8071,0.1486,0.6,1.0,-0.005,0.0714285714285714,2532.17,539.69,8.07,8.51,6.36,4.38,7.22,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1344,0.6,1.0,-0.0371,0.0,247.88,84.98,8.17,8.66,2.73,5.18,5.27,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1491,0.6,1.0,-0.0571,0.0,247.5,85.01,8.67,8.51,2.73,5.18,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8667,0.135,0.5,1.0,-0.003,0.2,2455.48,546.9,8.67,8.65,6.82,4.75,7.65,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.7583,0.1256,0.5,0.9,0.004,0.1666666666666666,2726.29,547.02,7.58,8.74,5.45,5.03,6.64,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+7,0.3182,0.9714,0.0452,0.9,1.0,-0.0036,0.1428571428571428,185.48,62.92,9.71,9.55,3.18,5.62,6.09,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.94,0.0879,0.7,1.0,0.0031,0.1333333333333333,2455.08,547.01,9.4,9.12,6.82,4.49,7.92,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.84,0.08,0.7,0.9,-0.0365,0.0,330.0,85.01,8.4,9.2,2.27,5.32,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.65,0.1258,0.5,0.9,-0.0371,0.0,247.51,85.03,6.5,8.74,2.73,5.18,4.87,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.825,0.0433,0.8,0.9,-0.01,0.0,214.56,48.96,8.25,9.57,1.82,5.45,4.98,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.228,0.4,1.0,0.0338,0.0,330.77,84.96,8.0,7.72,2.27,5.32,4.79,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1491,0.6,1.0,-0.0571,0.5,239.33,85.01,8.33,8.51,2.73,7.18,5.29,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.71,0.1758,0.4,1.0,-0.0107,0.0,2973.52,539.75,7.1,8.24,4.55,4.64,5.92,Moderately Engaged,1,Day submitter,1,Disengaged,Disengaged,1
+13,0.5909,0.8538,0.1646,0.4,1.0,-0.0119,0.1538461538461538,2618.18,547.09,8.54,8.35,5.91,4.84,7.06,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.86,0.196,0.5,1.0,-0.077,0.0,198.0,84.97,8.6,8.04,2.27,5.32,5.01,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.7545,0.2016,0.4,1.0,0.0038,0.3636363636363636,2888.29,547.46,7.55,7.98,5.0,5.95,6.23,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+6,0.2727,0.9,0.0577,0.8,1.0,-0.0057,0.0,247.16,85.05,9.0,9.42,2.73,5.18,5.63,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9333,0.0789,0.8,1.0,-0.0069,0.1333333333333333,2455.14,547.34,9.33,9.21,6.82,4.49,7.93,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1344,0.7,1.0,-0.0143,0.0,246.66,85.01,8.83,8.66,2.73,5.18,5.44,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.15,0.6,1.0,-0.0086,0.0,247.2,84.99,8.5,8.5,2.73,5.18,5.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1106,0.7,1.0,0.0229,0.0,244.76,84.86,7.67,8.89,2.73,5.18,5.2,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.76,0.1625,0.6,1.0,-0.0581,0.0,330.34,85.04,7.6,8.38,2.27,5.32,4.83,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0257,0.0,247.63,85.0,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1607,0.6,1.0,-0.06,0.0,246.52,85.09,8.5,8.39,2.73,5.18,5.3,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.8,0.0707,0.7,0.9,0.02,0.0,209.38,48.98,8.0,9.29,1.82,5.45,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9333,0.0471,0.9,1.0,0.0057,0.0,247.51,85.0,9.33,9.53,2.73,5.18,5.74,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.89,0.13,0.6,1.0,0.0147,0.1,160.82,84.36,8.9,8.7,4.55,4.91,6.46,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.75,0.15,0.5,1.0,0.0429,0.0,243.33,85.39,7.5,8.5,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7643,0.1716,0.4,1.0,-0.006,0.2142857142857142,2540.06,547.05,7.64,8.28,6.36,4.95,7.07,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+3,0.1364,0.8,0.0816,0.7,0.9,-0.0429,0.3333333333333333,85.15,49.12,8.0,9.18,1.36,5.44,4.59,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.1708,0.5,1.0,-0.0086,0.1666666666666666,243.22,85.69,7.5,8.29,2.73,5.85,5.03,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.94,0.08,0.8,1.0,-0.0095,0.2,325.49,85.92,9.4,9.2,2.27,6.12,5.44,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1886,0.5,1.0,-0.0343,0.0,246.06,85.07,7.67,8.11,2.73,5.18,5.04,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1886,0.5,1.0,-0.0343,0.1666666666666666,246.29,84.96,8.33,8.11,2.73,5.85,5.21,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.17,0.6,1.0,-0.0286,0.0,242.01,84.61,8.33,8.3,2.73,5.18,5.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.95,0.05,0.9,1.0,-0.0055,0.0,165.01,90.53,9.5,9.5,4.55,4.58,6.78,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8667,0.1599,0.6,1.0,0.0229,0.0,245.71,84.97,8.67,8.4,2.73,5.18,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8667,0.0943,0.6,1.0,0.0022,0.0666666666666666,2455.52,547.0,8.67,9.06,6.82,4.22,7.73,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8133,0.1707,0.5,1.0,-0.0049,0.1333333333333333,2454.61,547.06,8.13,8.29,6.82,4.49,7.44,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+9,0.4091,0.6889,0.1595,0.5,0.9,-0.0131,0.0,3110.84,532.97,6.89,8.41,4.09,4.77,5.65,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.15,0.6,1.0,0.0086,0.0,245.91,84.99,8.5,8.5,2.73,5.18,5.32,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7333,0.2211,0.4,1.0,0.0,0.3333333333333333,239.99,84.66,7.33,7.79,2.73,6.52,4.89,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9667,0.0596,0.8,1.0,-0.0053,0.1333333333333333,2453.24,546.85,9.67,9.4,6.82,4.49,8.05,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.8727,0.1656,0.4,1.0,-0.0036,0.0,150.61,91.06,8.73,8.34,5.0,4.19,6.6,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.7667,0.17,0.6,1.0,0.04,0.0,247.62,85.0,7.67,8.3,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.9,0.1225,0.7,1.0,0.1,0.0,208.13,49.07,9.0,8.78,1.82,5.45,5.01,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1344,0.5,0.9,0.0371,0.0,243.79,85.22,7.83,8.66,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7667,0.1247,0.6,0.9,-0.15,0.0,82.9,21.02,7.67,8.75,1.36,4.07,4.42,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1247,0.7,1.0,-0.0171,0.1666666666666666,238.36,85.01,8.67,8.75,2.73,5.85,5.42,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.75,0.2062,0.4,0.9,-0.0714,0.0,374.28,85.04,7.5,7.94,1.82,5.45,4.46,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9,0.0894,0.7,1.0,-0.0097,0.0,2455.24,546.97,9.0,9.11,6.82,3.95,7.82,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+15,0.6818,0.68,0.1759,0.4,0.9,0.0143,0.0666666666666666,2453.03,547.02,6.8,8.24,6.82,4.22,7.1,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.975,0.0433,0.9,1.0,-0.01,0.0,356.33,64.01,9.75,9.57,1.82,5.45,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.5,0.1549,0.4,0.8,0.09,0.2,268.94,64.15,5.0,8.45,2.27,6.12,4.19,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.7231,0.2258,0.1,1.0,-0.0251,0.1538461538461538,2821.26,546.97,7.23,7.74,5.91,4.84,6.61,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1344,0.7,1.0,-0.02,0.0,242.21,84.89,8.17,8.66,2.73,5.18,5.27,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.8909,0.09,0.7,1.0,0.0136,0.0909090909090909,153.47,91.12,8.91,9.1,5.0,4.6,6.8,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0086,0.0,246.12,85.2,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.7231,0.2189,0.2,1.0,-0.0007,0.0769230769230769,2626.21,539.98,7.23,7.81,5.91,4.53,6.62,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9,0.0816,0.8,1.0,-0.0114,0.0,247.87,85.0,9.0,9.18,2.73,5.18,5.59,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+2,0.0909,0.65,0.25,0.4,0.9,-0.0053,0.0,0.0,7.75,6.5,7.5,0.91,2.73,3.62,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8867,0.131,0.5,1.0,-0.0121,0.0666666666666666,2448.95,547.01,8.87,8.69,6.82,4.22,7.7,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.1528,0.6,1.0,0.0286,0.0,247.06,85.02,8.0,8.47,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9333,0.0745,0.8,1.0,0.0,0.0,247.05,85.03,9.33,9.25,2.73,5.18,5.68,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.94,0.0952,0.7,1.0,-0.0081,0.0666666666666666,2456.95,547.0,9.4,9.05,6.82,4.22,7.91,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.5,0.2191,0.1,0.7,-0.0946,0.0,329.74,85.2,5.0,7.81,2.27,5.32,4.06,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1067,0.7,1.0,0.0086,0.0,247.6,84.98,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.82,0.16,0.6,1.0,-0.0216,0.0,330.45,84.97,8.2,8.4,2.27,5.32,4.98,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.2494,0.3,1.0,-0.0686,0.0,246.79,84.99,7.67,7.51,2.73,5.18,4.92,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.5,0.3559,0.0,0.8,-0.4,0.0,10.55,15.01,5.0,6.44,1.36,2.78,3.29,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.0687,0.8,1.0,-0.0143,0.0,246.36,85.01,8.83,9.31,2.73,5.18,5.57,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.1356,0.7,1.0,-0.0,0.4,264.15,63.06,8.6,8.64,2.27,6.92,5.13,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.1915,0.4,1.0,0.04,0.0,244.55,84.84,8.0,8.09,2.73,5.18,5.12,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.7,0.1265,0.6,0.9,-0.0135,0.0,202.8,85.0,7.0,8.74,2.27,5.32,4.75,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.0943,0.7,1.0,-0.0171,0.0,247.9,85.0,8.67,9.06,2.73,5.18,5.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.1,0.8,1.0,-0.0286,0.0,246.76,84.9,9.0,9.0,2.73,5.18,5.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.78,0.172,0.5,1.0,0.03,0.0,268.53,64.05,7.8,8.28,2.27,5.32,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.875,0.1299,0.7,1.0,-0.03,0.0,313.18,50.06,8.75,8.7,1.82,5.45,4.93,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1213,0.6,0.9,-0.0314,0.0,246.76,84.97,7.83,8.79,2.73,5.18,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1106,0.7,1.0,-0.0286,0.1666666666666666,238.9,85.31,8.67,8.89,2.73,5.85,5.45,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8429,0.1591,0.5,1.0,0.0092,0.1428571428571428,2536.02,547.15,8.43,8.41,6.36,4.66,7.29,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.8417,0.1935,0.4,1.0,-0.0198,0.25,2717.68,546.95,8.42,8.07,5.45,5.36,6.72,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+13,0.5909,0.7769,0.1625,0.5,1.0,0.0012,0.1538461538461538,2617.11,547.5,7.77,8.38,5.91,4.84,6.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8,0.1109,0.6,1.0,-0.0014,0.1538461538461538,2678.94,546.99,8.0,8.89,5.91,4.84,7.03,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.2708,0.2,1.0,-0.0457,0.1666666666666666,200.48,56.1,8.0,7.29,2.73,5.85,4.96,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9467,0.0884,0.7,1.0,-0.0075,0.1333333333333333,2455.54,547.0,9.47,9.12,6.82,4.49,7.94,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9143,0.1059,0.7,1.0,-0.0061,0.1428571428571428,2533.54,546.96,9.14,8.94,6.36,4.66,7.57,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9267,0.0929,0.7,1.0,-0.0009,0.2666666666666666,2451.52,547.86,9.27,9.07,6.82,5.02,7.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9286,0.0958,0.7,1.0,-0.0096,0.2142857142857142,2532.33,547.01,9.29,9.04,6.36,4.95,7.63,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.7867,0.136,0.5,1.0,-0.0022,0.0666666666666666,2455.54,547.03,7.87,8.64,6.82,4.22,7.44,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7667,0.1599,0.5,1.0,-0.0229,0.0,236.88,84.43,7.67,8.4,2.73,5.18,5.1,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.7,0.1897,0.5,1.0,0.02,0.2,236.91,77.06,7.0,8.1,2.27,6.12,4.62,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.1826,0.5,1.0,-0.0743,0.1666666666666666,246.16,84.5,9.0,8.17,2.73,5.85,5.38,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.8083,0.1187,0.6,1.0,-0.002,0.3333333333333333,2715.89,540.01,8.08,8.81,5.45,5.7,6.78,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.9467,0.0884,0.7,1.0,-0.0049,0.0666666666666666,2454.35,546.94,9.47,9.12,6.82,4.22,7.94,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.66,0.1855,0.5,1.0,0.036,0.0,306.07,85.01,6.6,8.15,2.27,5.32,4.53,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.825,0.1299,0.6,0.9,0.09,0.0,208.77,48.92,8.25,8.7,1.82,5.45,4.8,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8933,0.1236,0.6,1.0,-0.0126,0.1333333333333333,2455.1,547.28,8.93,8.76,6.82,4.49,7.74,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.7727,0.2178,0.4,1.0,0.0099,0.3636363636363636,2849.92,526.67,7.73,7.82,5.0,5.95,6.25,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+2,0.0909,0.8,0.0,0.8,0.8,-0.0354,0.5,0.0,35.03,8.0,10.0,0.91,4.73,4.5,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.9778,0.0416,0.9,1.0,-0.0011,0.1111111111111111,185.55,90.96,9.78,9.58,4.09,5.22,6.61,Disengaged,0,Night submitter,0,Engaged,Engaged,0
+2,0.0909,0.85,0.05,0.8,0.9,-0.0515,0.0,0.0,27.93,8.5,9.5,0.91,2.73,4.53,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+13,0.5909,0.9385,0.1077,0.7,1.0,-0.0126,0.0769230769230769,2820.72,546.99,9.38,8.92,5.91,4.53,7.38,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9133,0.1147,0.6,1.0,-0.0083,0.1333333333333333,2454.27,547.01,9.13,8.85,6.82,4.49,7.8,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9333,0.0869,0.8,1.0,-0.0058,0.1333333333333333,2455.62,546.98,9.33,9.13,6.82,4.49,7.91,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.6333,0.2211,0.4,1.0,0.1029,0.0,246.0,85.03,6.33,7.79,2.73,5.18,4.64,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1599,0.6,1.0,-0.0343,0.0,244.87,85.19,8.67,8.4,2.73,5.18,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9167,0.0898,0.8,1.0,0.0086,0.0,244.09,85.12,9.17,9.1,2.73,5.18,5.61,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1247,0.7,1.0,-0.0171,0.1666666666666666,248.93,85.3,8.33,8.75,2.73,5.85,5.33,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.82,0.1939,0.5,1.0,-0.05,0.0,248.72,77.01,8.2,8.06,2.27,5.32,4.91,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1462,0.6,1.0,0.0029,0.0,248.33,85.07,8.83,8.54,2.73,5.18,5.42,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.08,0.8,1.0,-0.0243,0.0,329.73,84.97,8.6,9.2,2.27,5.32,5.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.6167,0.1772,0.3,0.8,0.0657,0.0,246.78,85.06,6.17,8.23,2.73,5.18,4.69,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7667,0.17,0.6,1.0,0.0885,0.0,572.68,63.9,7.67,8.3,1.36,5.59,4.33,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9,0.1195,0.6,1.0,-0.0082,0.2142857142857142,2532.33,546.05,9.0,8.8,6.36,4.95,7.51,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+3,0.1364,0.8667,0.0471,0.8,0.9,-0.05,0.0,13.49,15.1,8.67,9.53,1.36,2.83,4.82,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+15,0.6818,0.8867,0.136,0.6,1.0,-0.0148,0.1333333333333333,2454.47,547.03,8.87,8.64,6.82,4.49,7.69,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.8167,0.128,0.5,1.0,0.0004,0.1666666666666666,2719.44,547.04,8.17,8.72,5.45,5.03,6.79,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7615,0.1389,0.5,1.0,-0.0095,0.0769230769230769,2621.39,546.56,7.62,8.61,5.91,4.53,6.88,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.7867,0.1543,0.5,1.0,-0.0004,0.1333333333333333,2452.44,547.03,7.87,8.46,6.82,4.49,7.41,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9533,0.0718,0.8,1.0,-0.0026,0.0,2453.55,546.95,9.53,9.28,6.82,3.95,7.99,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0371,0.0,247.16,84.95,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.7,0.1871,0.5,1.0,0.02,0.25,197.83,48.89,7.0,8.13,1.82,6.45,4.38,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.85,0.1402,0.6,1.0,-0.0042,0.1428571428571428,2528.36,546.99,8.5,8.6,6.36,4.66,7.34,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.675,0.0829,0.6,0.8,0.05,0.0,291.47,56.0,6.75,9.17,1.82,5.45,4.52,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.89,0.1221,0.7,1.0,-0.0069,0.1,2956.68,532.84,8.9,8.78,4.55,5.04,6.48,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8667,0.0943,0.7,1.0,-0.0171,0.0,247.57,84.98,8.67,9.06,2.73,5.18,5.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.0764,0.7,0.9,-0.02,0.0,246.63,85.11,8.5,9.24,2.73,5.18,5.47,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8733,0.1389,0.6,1.0,-0.0028,0.0666666666666666,2454.69,547.02,8.73,8.61,6.82,4.22,7.66,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.75,0.1258,0.6,1.0,-0.0543,0.0,245.92,84.97,7.5,8.74,2.73,5.18,5.12,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.08,0.8,1.0,-0.0176,0.0,329.01,85.08,8.6,9.2,2.27,5.32,5.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8357,0.1394,0.6,1.0,-0.0103,0.0,2531.76,547.11,8.36,8.61,6.36,4.09,7.31,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+3,0.1364,0.7,0.1414,0.5,0.8,-0.15,0.0,84.12,21.13,7.0,8.59,1.36,4.09,4.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8733,0.1692,0.5,1.0,-0.0202,0.1333333333333333,2453.3,547.02,8.73,8.31,6.82,4.49,7.59,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.9,0.1095,0.7,1.0,0.0203,0.0,330.17,84.96,9.0,8.9,2.27,5.32,5.28,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.76,0.1356,0.6,1.0,0.07,0.0,270.51,63.95,7.6,8.64,2.27,5.32,4.88,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1599,0.5,1.0,0.0171,0.0,251.14,85.05,7.67,8.4,2.73,5.18,5.1,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.65,0.2062,0.3,1.0,-0.0177,0.0,3358.71,547.1,6.5,7.94,4.55,4.64,5.71,Moderately Engaged,1,Day submitter,1,Disengaged,Disengaged,1
+6,0.2727,0.9,0.1155,0.7,1.0,-0.0057,0.1666666666666666,250.06,84.96,9.0,8.85,2.73,5.85,5.52,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7133,0.1746,0.5,1.0,-0.0091,0.1333333333333333,2458.75,547.02,7.13,8.25,6.82,4.49,7.18,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9,0.0577,0.8,1.0,0.0057,0.0,248.32,85.0,9.0,9.42,2.73,5.18,5.63,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7,0.1414,0.5,0.8,0.15,0.0,12.38,15.11,7.0,8.59,1.36,2.81,4.22,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+3,0.1364,0.8,0.1414,0.7,1.0,0.0,0.0,86.57,35.0,8.0,8.59,1.36,4.14,4.47,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1258,0.6,1.0,0.02,0.0,246.88,85.0,8.5,8.74,2.73,5.18,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.9333,0.0745,0.8,1.0,-0.0025,0.1666666666666666,2730.83,533.02,9.33,9.25,5.45,5.03,7.18,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.92,0.0748,0.8,1.0,-0.01,0.0,271.92,63.99,9.2,9.25,2.27,5.32,5.4,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.17,0.5,1.0,0.0114,0.0,250.18,85.03,7.67,8.3,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.88,0.1166,0.7,1.0,-0.0035,0.0,406.94,85.82,8.8,8.83,2.27,5.32,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8429,0.1294,0.5,1.0,-0.0043,0.1428571428571428,2536.91,547.0,8.43,8.71,6.36,4.66,7.35,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9,0.1155,0.7,1.0,-0.0286,0.0,247.11,85.02,9.0,8.85,2.73,5.18,5.52,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.8818,0.1749,0.4,1.0,-0.0194,0.1818181818181818,3055.43,533.05,8.82,8.25,5.0,5.23,6.6,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7833,0.1951,0.5,1.0,-0.02,0.3333333333333333,244.84,85.83,7.83,8.05,2.73,6.52,5.07,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.72,0.2638,0.3,1.0,0.03,0.2,276.44,63.73,7.2,7.36,2.27,6.12,4.52,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.1497,0.6,1.0,-0.02,0.0,270.75,63.99,8.6,8.5,2.27,5.32,5.1,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1067,0.7,1.0,0.0257,0.3333333333333333,247.57,84.87,7.83,8.93,2.73,6.52,5.24,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.7778,0.1548,0.5,1.0,-0.0086,0.0,2200.0,427.75,7.78,8.45,4.09,4.77,5.88,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+13,0.5909,0.6692,0.1488,0.4,0.9,0.0081,0.0769230769230769,2628.15,540.04,6.69,8.51,5.91,4.53,6.63,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8923,0.1439,0.6,1.0,-0.0158,0.1538461538461538,2615.13,547.15,8.92,8.56,5.91,4.84,7.19,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8231,0.1576,0.5,1.0,-0.0027,0.1538461538461538,2614.61,547.02,8.23,8.42,5.91,4.84,6.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.775,0.1479,0.6,1.0,-0.01,0.0,208.67,48.79,7.75,8.52,1.82,5.45,4.64,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8857,0.1187,0.6,1.0,-0.0138,0.0714285714285714,2537.14,547.19,8.86,8.81,6.36,4.38,7.48,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8154,0.1167,0.6,1.0,-0.0049,0.0,2621.08,547.07,8.15,8.83,5.91,4.23,7.06,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.8667,0.0943,0.8,1.0,-0.0229,0.0,247.36,84.9,8.67,9.06,2.73,5.18,5.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.6333,0.2494,0.2,1.0,0.0343,0.0,250.24,85.53,6.33,7.51,2.73,5.18,4.58,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.66,0.1625,0.4,0.9,-0.0919,0.0,330.81,85.08,6.6,8.38,2.27,5.32,4.58,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.0816,0.8,1.0,-0.04,0.0,246.97,85.02,9.0,9.18,2.73,5.18,5.59,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.75,0.2363,0.3,1.0,0.02,0.0,247.63,84.89,7.5,7.64,2.73,5.18,4.9,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.7733,0.2407,0.0,1.0,-0.0111,0.3333333333333333,2449.91,546.62,7.73,7.59,6.82,5.29,7.2,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+9,0.4091,0.7556,0.1423,0.5,1.0,-0.0197,0.0,219.28,91.13,7.56,8.58,4.09,4.77,5.85,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.7,0.2449,0.4,1.0,0.1038,0.0,404.31,77.5,7.0,7.55,1.36,5.59,4.01,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.0943,0.7,1.0,0.0114,0.0,247.55,85.03,8.33,9.06,2.73,5.18,5.39,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.9667,0.0471,0.9,1.0,-0.0055,0.1666666666666666,2932.51,540.0,9.67,9.53,5.45,5.03,7.32,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8231,0.1476,0.6,1.0,-0.0118,0.2307692307692307,2619.9,547.11,8.23,8.52,5.91,5.15,7.01,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1863,0.5,1.0,0.0143,0.0,245.95,85.23,8.83,8.14,2.73,5.18,5.34,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9786,0.041,0.9,1.0,-0.0024,0.1428571428571428,2533.02,547.01,9.79,9.59,6.36,4.66,7.86,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9133,0.0806,0.8,1.0,-0.0076,0.2666666666666666,2459.76,546.88,9.13,9.19,6.82,5.02,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.875,0.1299,0.7,1.0,-0.01,0.0,355.31,63.94,8.75,8.7,1.82,5.45,4.93,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.78,0.172,0.5,1.0,-0.03,0.0,248.0,77.03,7.8,8.28,2.27,5.32,4.86,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.95,0.0671,0.8,1.0,-0.0115,0.0,210.99,91.1,9.5,9.33,4.55,4.64,6.74,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+6,0.2727,0.7833,0.1344,0.5,0.9,-0.0314,0.0,248.32,85.08,7.83,8.66,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.92,0.1778,0.4,1.0,-0.0197,0.2,157.2,84.32,9.2,8.22,4.55,5.24,6.44,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+15,0.6818,0.7933,0.1236,0.6,1.0,-0.004,0.0666666666666666,2456.6,547.09,7.93,8.76,6.82,4.22,7.49,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.725,0.109,0.6,0.9,-0.05,0.5,202.83,49.79,7.25,8.91,1.82,7.45,4.59,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.725,0.192,0.5,1.0,0.0543,0.0,283.03,77.0,7.25,8.08,1.82,5.45,4.43,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.7583,0.1754,0.5,1.0,-0.0055,0.25,2721.13,547.02,7.58,8.25,5.45,5.36,6.55,Moderately Engaged,1,Night submitter,1,Disengaged,Disengaged,1
+6,0.2727,0.9167,0.0687,0.8,1.0,-0.0314,0.1666666666666666,246.53,85.82,9.17,9.31,2.73,5.85,5.65,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7929,0.1437,0.5,1.0,-0.0,0.1428571428571428,2542.66,540.03,7.93,8.56,6.36,4.66,7.19,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8333,0.1599,0.5,1.0,-0.0629,0.0,247.09,85.02,8.33,8.4,2.73,5.18,5.26,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1106,0.7,1.0,0.0343,0.1666666666666666,245.55,84.08,8.33,8.89,2.73,5.85,5.36,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+4,0.1818,0.825,0.0433,0.8,0.9,-0.02,0.0,316.06,76.85,8.25,9.57,1.82,5.45,4.98,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8214,0.152,0.5,1.0,-0.0111,0.1428571428571428,2536.79,547.04,8.21,8.48,6.36,4.66,7.25,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.9,0.0632,0.8,1.0,-0.0203,0.0,330.24,85.0,9.0,9.37,2.27,5.32,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9,0.1,0.7,1.0,-0.0343,0.0,246.5,84.96,9.0,9.0,2.73,5.18,5.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9133,0.0806,0.8,1.0,-0.0052,0.2,2449.43,547.01,9.13,9.19,6.82,4.75,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.625,0.0829,0.5,0.7,0.0357,0.0,708.13,85.02,6.25,9.17,1.82,5.45,4.4,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.7909,0.1881,0.5,1.0,-0.01,0.0909090909090909,152.21,90.96,7.91,8.12,5.0,4.58,6.35,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+10,0.4545,0.73,0.1345,0.5,1.0,-0.0218,0.0,2102.57,427.97,7.3,8.65,4.55,4.64,6.06,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+11,0.5,0.9364,0.0979,0.7,1.0,-0.0113,0.0909090909090909,3061.68,525.87,9.36,9.02,5.0,4.86,6.9,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.88,0.1166,0.7,1.0,0.05,0.0,270.92,64.02,8.8,8.83,2.27,5.32,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+8,0.3636,0.7625,0.1867,0.5,1.0,0.0167,0.25,171.99,84.01,7.62,8.13,3.64,5.91,5.53,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.0471,0.8,0.9,0.0114,0.0,250.97,84.93,8.67,9.53,2.73,5.18,5.57,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9267,0.1123,0.6,1.0,-0.0124,0.4,2454.51,546.96,9.27,8.88,6.82,5.55,7.84,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1213,0.6,1.0,0.0314,0.0,247.44,84.95,8.17,8.79,2.73,5.18,5.3,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.86,0.102,0.7,1.0,-0.0581,0.0,329.96,84.95,8.6,8.98,2.27,5.32,5.2,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.9333,0.0667,0.8,1.0,-0.0004,0.1111111111111111,222.46,83.89,9.33,9.33,4.09,5.22,6.45,Disengaged,0,Night submitter,0,Engaged,Engaged,0
+4,0.1818,0.625,0.0433,0.6,0.7,0.03,0.0,209.91,49.0,6.25,9.57,1.82,5.45,4.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.92,0.0909,0.7,1.0,-0.0017,0.2,2459.33,547.53,9.2,9.09,6.82,4.75,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9,0.1,0.7,1.0,-0.0343,0.0,247.07,84.99,9.0,9.0,2.73,5.18,5.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.0957,0.7,1.0,-0.0143,0.0,248.42,84.94,8.5,9.04,2.73,5.18,5.43,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.82,0.172,0.5,1.0,-0.0622,0.0,323.49,85.58,8.2,8.28,2.27,5.32,4.96,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9333,0.0869,0.8,1.0,-0.0039,0.0666666666666666,2454.56,546.97,9.33,9.13,6.82,4.22,7.91,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0029,0.0,246.98,84.94,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1374,0.6,1.0,0.0171,0.0,247.18,85.05,8.33,8.63,2.73,5.18,5.31,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.9214,0.1013,0.7,1.0,-0.0131,0.2142857142857142,2534.1,547.02,9.21,8.99,6.36,4.95,7.6,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.725,0.1479,0.5,0.9,-0.0808,0.0,225.69,84.97,7.25,8.52,1.82,5.45,4.52,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7333,0.1491,0.6,1.0,0.0114,0.0,248.37,84.99,7.33,8.51,2.73,5.18,5.04,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1344,0.7,1.0,-0.0143,0.0,248.0,85.04,8.83,8.66,2.73,5.18,5.44,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8267,0.1982,0.2,1.0,0.0008,0.2,2454.32,547.79,8.27,8.02,6.82,4.75,7.42,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.7833,0.1344,0.6,1.0,-0.02,0.0,247.01,85.21,7.83,8.66,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.1972,0.5,1.0,-0.0457,0.0,246.19,85.14,7.67,8.03,2.73,5.18,5.02,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8333,0.1491,0.6,1.0,-0.0286,0.0,246.91,85.05,8.33,8.51,2.73,5.18,5.29,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.76,0.1541,0.5,1.0,-0.0134,0.1333333333333333,2455.22,547.04,7.6,8.46,6.82,4.49,7.34,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8533,0.1087,0.7,1.0,0.0037,0.0666666666666666,2451.56,547.06,8.53,8.91,6.82,4.22,7.67,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8467,0.1821,0.3,1.0,0.0012,0.0666666666666666,2453.75,546.98,8.47,8.18,6.82,4.22,7.5,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.85,0.1258,0.6,1.0,0.0086,0.0,246.69,85.01,8.5,8.74,2.73,5.18,5.37,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.65,0.1658,0.4,0.9,-0.0085,0.0833333333333333,2730.18,533.04,6.5,8.34,5.45,4.7,6.29,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.1291,0.6,1.0,-0.0057,0.0,247.28,85.06,8.0,8.71,2.73,5.18,5.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8533,0.1408,0.5,1.0,0.0037,0.0666666666666666,2455.7,547.81,8.53,8.59,6.82,4.22,7.6,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8357,0.0972,0.7,1.0,-0.0006,0.1428571428571428,2536.16,547.06,8.36,9.03,6.36,4.66,7.39,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.7,0.1225,0.6,0.9,0.08,0.0,307.21,50.47,7.0,8.78,1.82,5.45,4.51,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1572,0.5,1.0,-0.0314,0.0,249.13,84.98,7.83,8.43,2.73,5.18,5.14,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7667,0.17,0.5,1.0,-0.0343,0.0,246.59,85.12,7.67,8.3,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.0929,0.7,1.0,-0.0072,0.2,2457.31,547.05,9.07,9.07,6.82,4.75,7.83,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.52,0.1641,0.2,0.8,-0.0053,0.1333333333333333,2455.02,547.01,5.2,8.36,6.82,4.49,6.72,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.92,0.0909,0.7,1.0,-0.0069,0.2,2455.21,547.11,9.2,9.09,6.82,4.75,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8846,0.1292,0.6,1.0,-0.0031,0.2307692307692307,2615.21,546.98,8.85,8.71,5.91,5.15,7.2,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8769,0.125,0.6,1.0,-0.0119,0.0769230769230769,2630.04,532.93,8.77,8.75,5.91,4.53,7.19,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8133,0.1821,0.4,1.0,-0.0026,0.0666666666666666,2455.28,546.2,8.13,8.18,6.82,4.22,7.42,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+11,0.5,0.9455,0.0656,0.8,1.0,0.0027,0.1818181818181818,150.45,90.96,9.45,9.34,5.0,4.91,6.98,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.7769,0.125,0.6,1.0,-0.0069,0.1538461538461538,2628.11,540.02,7.77,8.75,5.91,4.84,6.94,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.85,0.05,0.8,0.9,-0.0,0.25,205.86,49.0,8.5,9.5,1.82,6.45,5.03,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8867,0.1258,0.5,1.0,-0.0043,0.0,2456.23,546.99,8.87,8.74,6.82,3.95,7.72,Moderately Engaged,1,Day submitter,0,Engaged,Engaged,1
+15,0.6818,0.9267,0.0998,0.7,1.0,-0.0129,0.2,2455.21,546.78,9.27,9.0,6.82,4.75,7.87,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8923,0.1269,0.6,1.0,-0.0074,0.0769230769230769,2620.75,547.0,8.92,8.73,5.91,4.53,7.23,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.1528,0.6,1.0,-0.0114,0.0,247.23,85.02,8.0,8.47,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.74,0.2498,0.4,1.0,-0.01,0.0,273.35,63.04,7.4,7.5,2.27,5.32,4.6,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.1528,0.6,1.0,-0.0286,0.0,245.77,84.96,8.0,8.47,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.9545,0.0498,0.9,1.0,-0.0019,0.1818181818181818,2843.98,533.09,9.55,9.5,5.0,5.23,7.04,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.8917,0.1037,0.7,1.0,-0.0102,0.0833333333333333,2734.09,533.61,8.92,8.96,5.45,4.7,7.02,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.84,0.102,0.7,1.0,0.03,0.0,272.09,63.72,8.4,8.98,2.27,5.32,5.15,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.6167,0.1572,0.4,0.8,-0.0086,0.0,246.82,85.04,6.17,8.43,2.73,5.18,4.73,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.88,0.1166,0.7,1.0,-0.03,0.0,270.81,64.0,8.8,8.83,2.27,5.32,5.22,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8667,0.1106,0.7,1.0,-0.0286,0.0,247.32,84.99,8.67,8.89,2.73,5.18,5.45,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.0898,0.8,1.0,-0.0143,0.0,246.39,84.97,8.83,9.1,2.73,5.18,5.53,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+9,0.4091,0.9222,0.0916,0.8,1.0,-0.009,0.0,2218.53,406.97,9.22,9.08,4.09,4.77,6.37,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+14,0.6364,0.7429,0.1348,0.5,0.9,-0.0053,0.1428571428571428,2537.14,546.98,7.43,8.65,6.36,4.66,7.09,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+12,0.5455,0.8417,0.132,0.5,1.0,-0.0005,0.1666666666666666,2937.9,533.13,8.42,8.68,5.45,5.03,6.84,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8,0.2082,0.4,1.0,-0.0457,0.0,246.57,85.09,8.0,7.92,2.73,5.18,5.08,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+11,0.5,0.9273,0.1052,0.7,1.0,-0.0056,0.1818181818181818,2886.13,533.01,9.27,8.95,5.0,5.23,6.86,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.9,0.0707,0.8,1.0,-0.0214,0.0,706.72,84.96,9.0,9.29,1.82,5.45,5.11,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9267,0.0854,0.7,1.0,-0.0058,0.2,2460.37,546.78,9.27,9.15,6.82,4.75,7.9,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.9571,0.0821,0.7,1.0,-0.0088,0.1428571428571428,2535.09,547.03,9.57,9.18,6.36,4.66,7.73,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+9,0.4091,0.8111,0.1286,0.6,1.0,-0.0064,0.0,2444.92,427.85,8.11,8.71,4.09,4.77,6.02,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+3,0.1364,0.7667,0.0471,0.7,0.8,0.0357,0.0,248.59,34.63,7.67,9.53,1.36,5.59,4.57,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.95,0.0764,0.8,1.0,-0.0086,0.0,246.57,84.95,9.5,9.24,2.73,5.18,5.72,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.95,0.0764,0.8,1.0,-0.02,0.0,248.19,85.0,9.5,9.24,2.73,5.18,5.72,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8214,0.1473,0.5,1.0,0.0009,0.1428571428571428,2541.81,533.0,8.21,8.53,6.36,4.66,7.26,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.82,0.1166,0.7,1.0,0.0149,0.0,199.48,85.0,8.2,8.83,2.27,5.32,5.07,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.8071,0.2219,0.3,1.0,0.0012,0.2857142857142857,2538.49,547.04,8.07,7.78,6.36,5.23,7.07,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.9,0.1265,0.7,1.0,0.03,0.0,268.91,63.98,9.0,8.74,2.27,5.32,5.25,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9733,0.0772,0.7,1.0,-0.0035,0.1333333333333333,2455.39,547.0,9.73,9.23,6.82,4.49,8.03,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.9231,0.0973,0.8,1.0,-0.0114,0.0769230769230769,2620.48,547.11,9.23,9.03,5.91,4.53,7.36,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.9333,0.0745,0.8,1.0,0.0,0.0,246.78,84.88,9.33,9.25,2.73,5.18,5.68,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1384,0.6,1.0,0.0029,0.0,248.86,85.03,8.5,8.62,2.73,5.18,5.35,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1462,0.6,1.0,-0.02,0.0,247.12,85.02,7.83,8.54,2.73,5.18,5.17,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.96,0.049,0.9,1.0,0.01,0.0,270.57,63.99,9.6,9.51,2.27,5.32,5.55,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.9667,0.0471,0.9,1.0,-0.0057,0.0,247.09,85.01,9.67,9.53,2.73,5.18,5.82,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+14,0.6364,0.7929,0.1624,0.5,1.0,-0.0127,0.1428571428571428,2539.06,540.0,7.93,8.38,6.36,4.66,7.16,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.7,0.1673,0.5,0.9,0.0058,0.0,406.32,84.99,7.0,8.33,2.27,5.32,4.67,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1344,0.6,1.0,-0.0086,0.0,237.83,85.8,7.83,8.66,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.825,0.1479,0.5,1.0,-0.0058,0.0833333333333333,2717.17,547.04,8.25,8.52,5.45,4.7,6.77,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.8333,0.1578,0.5,1.0,-0.0066,0.1333333333333333,2454.91,547.04,8.33,8.42,6.82,4.49,7.52,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.86,0.08,0.8,1.0,-0.01,0.0,248.53,77.01,8.6,9.2,2.27,5.32,5.24,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8833,0.1067,0.7,1.0,-0.0314,0.0,247.82,85.02,8.83,8.93,2.73,5.18,5.49,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9067,0.0854,0.8,1.0,-0.0086,0.1333333333333333,2449.94,547.87,9.07,9.15,6.82,4.49,7.85,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.9,0.1211,0.6,1.0,-0.0038,0.1333333333333333,2457.11,547.41,9.0,8.79,6.82,4.49,7.76,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+9,0.4091,0.8667,0.1054,0.7,1.0,-0.0097,0.3333333333333333,3095.69,526.76,8.67,8.95,4.09,6.11,6.21,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.8583,0.1891,0.4,1.0,-0.014,0.1666666666666666,2930.46,546.71,8.58,8.11,5.45,5.03,6.77,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+13,0.5909,0.8846,0.161,0.4,1.0,-0.006,0.1538461538461538,2622.74,547.03,8.85,8.39,5.91,4.84,7.14,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.82,0.2166,0.2,1.0,-0.0113,0.1333333333333333,2454.45,547.07,8.2,7.83,6.82,4.49,7.37,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8667,0.1374,0.6,1.0,-0.0514,0.0,247.18,84.99,8.67,8.63,2.73,5.18,5.39,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1344,0.6,1.0,0.06,0.0,246.8,85.02,7.83,8.66,2.73,5.18,5.19,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8167,0.1344,0.6,1.0,-0.02,0.0,246.83,85.03,8.17,8.66,2.73,5.18,5.27,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.7833,0.1675,0.6,1.0,-0.0029,0.1666666666666666,247.28,85.02,7.83,8.33,2.73,5.85,5.12,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+3,0.1364,0.9,0.0816,0.8,1.0,0.05,0.0,12.1,15.1,9.0,9.18,1.36,2.81,4.84,Disengaged,0,Day submitter,0,Engaged,Engaged,0
+6,0.2727,0.8333,0.1886,0.5,1.0,-0.0514,0.0,247.05,85.03,8.33,8.11,2.73,5.18,5.21,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.6467,0.1821,0.3,1.0,0.0003,0.0666666666666666,2455.2,547.08,6.47,8.18,6.82,4.22,7.0,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+15,0.6818,0.7733,0.1236,0.6,1.0,-0.0028,0.2,2455.18,547.92,7.73,8.76,6.82,4.75,7.44,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8167,0.1462,0.6,1.0,-0.0086,0.0,247.82,85.04,8.17,8.54,2.73,5.18,5.25,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+10,0.4545,0.9,0.1414,0.6,1.0,-0.0083,0.1,2960.21,532.61,9.0,8.59,4.55,5.04,6.47,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.775,0.109,0.6,0.9,-0.09,0.0,309.95,49.91,7.75,8.91,1.82,5.45,4.72,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.85,0.1118,0.7,1.0,-0.0257,0.0,247.17,85.0,8.5,8.88,2.73,5.18,5.4,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.8,0.216,0.5,1.0,-0.0171,0.0,243.07,84.94,8.0,7.84,2.73,5.18,5.07,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+12,0.5455,0.9,0.1414,0.5,1.0,-0.0129,0.0833333333333333,2729.48,532.95,9.0,8.59,5.45,4.7,6.97,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+4,0.1818,0.775,0.2278,0.5,1.0,0.0657,0.0,468.24,63.89,7.75,7.72,1.82,5.45,4.48,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+6,0.2727,0.6667,0.2211,0.3,0.9,-0.1086,0.0,246.59,85.07,6.67,7.79,2.73,5.18,4.72,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.8,0.1265,0.6,1.0,0.0135,0.2,187.02,84.16,8.0,8.74,2.27,6.12,5.0,Disengaged,0,Night submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.9533,0.0718,0.8,1.0,-0.0038,0.2,2449.25,547.01,9.53,9.28,6.82,4.75,7.99,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+5,0.2273,0.74,0.1497,0.6,1.0,0.02,0.0,246.34,76.81,7.4,8.5,2.27,5.32,4.8,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+5,0.2273,0.7,0.1673,0.5,1.0,-0.0473,0.0,331.29,85.11,7.0,8.33,2.27,5.32,4.67,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
+15,0.6818,0.8733,0.1389,0.6,1.0,-0.0073,0.0666666666666666,2455.17,546.9,8.73,8.61,6.82,4.22,7.66,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+14,0.6364,0.8429,0.1348,0.6,1.0,-0.0038,0.2142857142857142,2535.13,547.07,8.43,8.65,6.36,4.95,7.34,Moderately Engaged,1,Night submitter,0,Engaged,Engaged,1
+6,0.2727,0.8833,0.0687,0.8,1.0,0.02,0.0,247.96,84.98,8.83,9.31,2.73,5.18,5.57,Disengaged,0,Day submitter,1,Disengaged,Disengaged,0
